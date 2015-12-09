@@ -5,6 +5,8 @@ var express = require('express')
 
 var Schema = mongoose.Schema
 
+var router = express.Router()
+
 app.disable('x-powered-by')
 app.set('port', (process.env.PORT || 5000))
 
@@ -72,12 +74,14 @@ User.find({}, function(err, users) {
 
 var names=[]
 
-app.get('/route', function(req, res) {
+router.get('/', function(req, res) {
   res.render('index.jade', {names: names})
-}).post('/route', function(req, res) {
+}).post('/', function(req, res) {
     names.push(req.body.name)
-    res.redirect('/route')
+    res.redirect(req.get('referer'))
 })
+// Use /node path to test all node method.
+app.use('/node', router)
 
 // built-in middleware
 app.use(express.static('./public'))
