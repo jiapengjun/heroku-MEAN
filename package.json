@@ -1,0 +1,23 @@
+{
+  "name": "pjia-home",
+  "version": "1.0.0",
+  "description": "Welcome my home.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiapengjun/heroku-MEAN.git"
+  },
+  "author": "Pengjun Jia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiapengjun/heroku-MEAN/issues"
+  },
+  "homepage": "https://github.com/jiapengjun/heroku-MEAN#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
