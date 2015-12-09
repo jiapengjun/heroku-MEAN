@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <style>
+	.way1:before {content: attr(data-user)"@";}
+	.way1:after  {content: attr(data-domain);}
+
+	.way2 {
+		unicode-bidi: bidi-override; 
+		direction: rtl;
+		text-align: left;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+    </style>
+    <script type="text/javascript">
+	function makelink(user, domain_begin, domain_end) {
+		document.write('<a href="mailto: '+ user + '@' + domain_begin + '.' + domain_end + '">' +  user + '@' + domain_begin + '.' + domain_end + '</a>');
+	}
+    </script>
+  </head>
+  <body>
+	  <article>
+		  <h1>1. display user and name seperately</h1>
+		  <p class='way1' data-user="jiapengjun" data-domain="gmail.com"></p>
+
+		  <h1>2. reverse the string and display right to left.</h1>
+		  <p class='way2'>moc.liamg@nujgnepaij</p>
+
+		  <h1>3. encode the email address by unicode</h1>
+		  <a href="mailto:&#106;&#105;&#097;&#112;&#101;&#110;&#103;&#106;&#117;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#105;&#097;&#112;&#101;&#110;&#103;&#106;&#117;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+
+		  <h1>4. javascript generate the email address dynamicly</h1>
+		  <p><script type="text/javascript">makelink('jiapengjun', 'gmail', 'com');</script></p>
+
+		  <h1>5. manipulate the DOM with javascript</h1>
+		  <p><a class="way5" href="#"  data-ep1="jiapengjun" data-ep2="gmail" data-ep3="com">Email me</a></p>
+
+		  <script type="text/javascript">
+var elinks = document.getElementsByClassName('way5'); 
+var total_elinks = elinks.length;
+for(var i=0; i<total_elinks; i++)
+{
+	var part1 = elinks[i].getAttribute('data-ep1');
+	var part2 = elinks[i].getAttribute('data-ep2');
+	var part3 = elinks[i].getAttribute('data-ep3');
+	var newAddress = part1 + '@' + part2 + '.' + part3;
+	
+	elinks[i].setAttribute('href', 'mailto:'+newAddress);
+	elinks[i].innerHTML = newAddress;
+}
+		  </script>
+
+	  </article>
+  </body>
+</html>

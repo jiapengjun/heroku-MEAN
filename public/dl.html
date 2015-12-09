@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Training, Interest, Relax</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+
+		<!--
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script> 
+		-->
+		<script src="script/angular.min.js"></script>
+		<script src="script/link.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+	<body ng-app="myApp" ng-controller="myCtrl">
+		<input type="text" ng-model="search" placeholder="search">
+		<table>
+			<caption>Local [@Github]</caption>
+			<th>Name</th><th>Summary</th><th>Link</th>
+			<tr ng-repeat="item in local |filter: search|orderBy:'name'"><td>{{item.name}}</td><td>{{item.summary}}</td><td><a href="{{item.link}}">Go To</a></td></tr>
+		</table>
+
+		<table>
+			<caption>Google Drive</caption>
+			<th>Name</th><th>Summary</th><th>Link</th>
+			<tr ng-repeat="item in drive|filter: search|orderBy:'name'"><td>{{item.name}}</td><td>{{item.summary}}</td><td><a href="{{item.link}}">Go To</a></td></tr>
+		</table>
+
+		<table>
+			<caption>Youtube Playlist</caption>
+			<tfoot><tr><td colspan="2">Contact the author, send mail to: {{fmail + "@" + lmail}}</td></tr></tfoot>
+			<th>Summary</th><th>Link</th>
+			<tr ng-repeat="item in utube|filter: search|orderBy:'name'"><td>{{"[" + item.name + "] " + item.summary}}</td><td><a href="{{item.link}}">{{item.link}}</a></td></tr>
+		</table>
+	</body>
+</html>

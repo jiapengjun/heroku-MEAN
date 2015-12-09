@@ -1,0 +1,35 @@
+a {
+	text-decoration: none;
+}
+
+div.head {
+	position: fixed;
+}
+
+div.main {
+	position: fixed;
+	float: left;
+	clear: left;
+	margin-top: 50px;
+}
+
+img#current{
+	margin: 0 auto;
+	max-width: 800px;
+	min-width: 600px;
+	max-height:800px;
+}
+
+div.aside {
+	float:right;
+}
+div.imgItem {
+}
+
+img.thumb {
+	border: 1px solid gray;
+	max-width: 120px;
+}
+img.active {
+	border: 2px solid red;
+}

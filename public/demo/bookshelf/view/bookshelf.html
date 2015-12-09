@@ -1,0 +1,9 @@
+<div>
+	<link rel="stylesheet" type="text/css" href="css/bookshelf.css">
+	<h1>Anime list...</h1>
+
+	<div ng-repeat="book in bookshelf.records|orderBy:['id']" class="book" style="background-image:url({{book.location}}/cover.jpg);background-size: cover;">
+		<a class="thumb" href="#/book/{{book.id}}" title={{book.description}}><h3>{{book.title}}</h3></a>
+	</div>
+</div>
+

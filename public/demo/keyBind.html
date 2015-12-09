@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Set up/down/left/right key</title>
+		<meta charset="UTF-8">
+	</head>
+
+	<body>
+		<h1 id="display">Hello world!</h1>
+	</body>
+
+	<script type="text/javascript">
+		document.addEventListener("keydown", function ( event ) {
+			if( (event.keyCode >= 37 && event.keyCode <= 40) ) {
+				event.preventDefault() ;
+			}
+		}, false) ;
+
+		document.addEventListener("keyup", function ( event ) {
+			if( (event.keyCode >= 37 && event.keyCode <= 40) ) {
+				switch ( event.keyCode ) {
+
+					case 37: // left
+					case 38: // up
+						display("Previous!") ;
+						break;
+					case 39: // right
+					case 40: // down
+						display("Next!") ;
+						break ;
+				}
+
+				event.preventDefault();
+			}
+		}, false) ;
+
+		function display(str) {
+			document.getElementById("display").innerHTML = str;
+		}
+	</script>
+
+</html>
+

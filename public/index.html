@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Welcome to My Site</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+			header, nav, footer, div, ul, li, a{
+				margin: 0px;
+				padding: 0px;
+			}
+			body {
+				width: 80%;
+				margin: 0px auto;
+				font-family:Georgia, Helvetica, Serif;
+			}
+
+			header{
+				background: url(image/header.png) no-repeat;
+				background-position: 0px 80px;
+
+				height: 250px;
+			}
+			header hgroup {
+				color: blue;
+				font-size: 2em;
+
+				display: none;
+			}
+
+			footer {
+				clear: both;
+
+				padding-top: 32px;
+				color: rgba(0, 0, 0, .5);
+			}
+
+			nav {
+				color: white;
+			}
+			li {
+				float: left;
+
+				margin: 0px 24px 12px 0px;
+				width: 160px;
+				height: 160px;
+			}
+			li:first-child {
+				width: 324px;
+				padding-left: 20px;
+			}
+			li h1 {
+				padding-top: 20px;
+			}
+
+			.bg-purple {
+				background: #5133AB;
+			}
+			.bg-red {
+				background: #AC193D;
+			}
+			.bg-blue {
+				background: #007FFF;
+			}
+			.bg-green{
+				background: #008000;
+			}
+			.bg-orange{
+				background: #DC572E;
+			}
+
+			li a{
+				color: #FFF;
+				padding: 10px;
+				text-decoration: none;
+			}
+
+			li a div {
+				margin: auto;
+
+				background: url(image/icon.png) no-repeat;
+				height: 128px;
+				width: 128px;
+			}
+			.icon-resume{
+				background-position: -826px 0px;
+			}
+			.icon-twitter{
+				background-position: 0px 0px;
+			}
+			.icon-gplus{
+				background-position: -276px 0px;
+			}
+			.icon-share{
+				background-position: -416px 0px;
+			}
+			.icon-facebook{
+				background-position: -138px 0px;
+			}
+			.icon-blog{
+				background-position: -688px 0px;
+			}
+			.icon-linkin{
+				background-position: -548px 0px;
+			}
+
+			.new-row{
+				clear: left;
+			}
+
+			.clearfix:after {
+				content: "";
+				display: block;
+				clear: both;
+			}
+
+			@media only screen and (max-width:480px) {
+				body {
+					width: 320px;
+				}
+				header{
+					background-image: none;
+					height: 180px;
+				}
+
+				header hgroup {
+					font-size: 1.8em;
+					display: block;
+				}
+
+				li {
+					width: 130px;
+					height: 130px;
+				}
+
+				li:first-child{
+					width: 264px;
+				}
+			}
+			@media only screen and (min-width:481px) and (max-width:768px) {
+				body {
+					width: 90%;
+				}
+				header {
+					background-position: 0px 40px;
+					height: 210px;
+				}
+				li {
+					width: 128px;
+					height: 128px;
+				}
+				li:first-child{
+					width: 260px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<hgroup>
+				<h1>情深不寿</h1>
+				<p><small>强极则辱 谦谦君子 温润如玉</small></p>
+			</hgroup>
+		</header>
+
+		<nav class="clearfix">
+			<ul>
+				<li class="bg-purple">
+					<h1>About Me</h1>
+					<p>Hello world, I'm Pengjun Jia.</p>
+				</li>
+				<li class="bg-red"><a href="./resume.html" title="resume">
+					<div class="icon-resume"></div>
+				</a></li>
+				<li class="bg-green"><a href="./dl.html" title="share">
+					<div class="icon-share"></div>
+				</a></li>
+				<li class="new-row bg-red"><a href="https://www.google.com/+StingJia" title="google plus">
+					<div class="icon-gplus"></div>
+				</a></li>
+				<li class="bg-blue"><a href="https://www.facebook.com/pengjun.jia" title="facebook">
+					<div class="icon-facebook"></div>
+				</a></li>
+				<li class="bg-blue"><a href="https://twitter.com/stingJia" title="twitter">
+					<div class="icon-twitter"></div>
+				</a></li>
+				<li class="bg-orange"><a href="http://jiapengjun.blogspot.com/" title="blog">
+					<div class="icon-blog"></div>
+				</a></li>
+				<li class="bg-blue"><a href="https://www.linkedin.com/pub/pengjun-jia/50/9b5/929" title="linked in">
+					<div class="icon-linkin"></div>
+				</a></li>
+			</ul>
+		</nav>
+
+		<footer>
+			<p>&#106;&#105;&#097;&#112;&#101;&#110;&#103;&#106;&#117;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</p>
+		</footer>
+	</body>
+</html>

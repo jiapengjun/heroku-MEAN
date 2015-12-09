@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Piet Mondrian (supported by Chrome/Firefox)</title>
+		<style>
+			body {
+				margin: 0 auto;
+				background-color: gray;
+			}
+
+			.container {
+				width: 960px;
+				height: 800px;
+				margin: 0 auto;
+				background-color: black;
+				color: green;
+				display: flex;
+				flex-flow: column wrap;
+			}
+
+			.rowU { 
+				flex: 1 70%; 
+
+				display: flex;
+				flex-flow: row wrap;
+			}
+				.colU1 {
+					flex: 1 25%;
+
+					display: flex;
+					flex-flow: column wrap;
+				}
+					.rowU1 {
+						background-color: white;
+						flex: 1 47%;
+					}
+					.rowU2 {
+						background-color: white;
+						margin-top: 6%;
+						flex: 1 47%;
+					}
+				.colU2 {
+					background-color: red;
+					flex: 1 73%;
+					margin-left: 2%;
+				}
+
+
+			.rowD { 
+				flex: 1 27%; 
+				margin-top: 2%;
+
+				display: flex;
+				flex-flow: row wrap;
+			}
+				.colD1 {
+					flex: 1 25%;
+					background-color: blue;
+				}
+				.colD2 {
+					flex: 1 65%;
+					margin-left: 2%;
+					background-color: white ;
+				}
+				.colD3 {
+					flex: 1 6%;
+					margin-left: 2%;
+
+					display: flex;
+					flex-flow: column wrap;
+				}
+					.rowD1 {
+						flex: 1 48%;
+						background-color: white ;
+					}
+					.rowD2 {
+						flex: 1 48%;
+						margin-top: 4%;
+						background-color: yellow;
+					}
+		</style>
+	</head>
+
+	<body>
+		<div class ="container">
+			<div class="rowU">
+				<div class="colU1">
+					<div class="rowU1"></div>
+					<div class="rowU2"></div>
+				</div> 
+				<div class="colU2">Piet Mondrian</div> 
+			</div>
+			<div class="rowD">
+				<div class="colD1"></div>
+				<div class="colD2"></div>
+				<div class="colD3">
+					<div class="rowD1"></div>
+					<div class="rowD2"></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+

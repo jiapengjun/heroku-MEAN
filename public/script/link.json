@@ -1,0 +1,160 @@
+{
+"local": [
+	{
+		"name":"History", 
+		"summary":"中国历史年表",
+		"link":"./history/index.html"
+	} ,
+	{
+		"name":"Training", 
+		"summary":"技术类视频教程，附种子",
+		"link":"./train.html"
+	} ,
+	{
+		"name":"Videos", 
+		"summary":"推荐的影视作品，附种子", 
+		"link":"./seed.html"
+	} ,
+	{
+		"name":"Lantern", 
+		"summary":"2.0 for Windows。翻墙工具，无需配置", 
+		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.exe?raw=true"
+	} ,
+	{
+		"name":"Lantern", 
+		"summary":"2.0 for Mac OS X。", 
+		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.dmg?raw=true"
+	} 
+],
+
+"drive": [
+	{
+		"name":"History", 
+		"summary":"中国历史年表",
+		"link":"https://docs.google.com/spreadsheets/d/1g3OBEFMcLu92yGSQ5M2HWi_SD2K4hSGGLAIUOTImhf8/edit?usp=sharing"
+	}, 
+	{
+		"name":"Syntax", 
+		"summary":"Programming语法",
+		"link":"https://docs.google.com/spreadsheets/d/16f9EWSj8QG9yhY0_gP20eg2Ie5koQKdSbl_6gK_A9iQ/edit?usp=sharing"
+	}, 
+	{
+		"name":"Painting", 
+		"summary":"名画欣赏",
+		"link":"https://drive.google.com/folderview?id=0B_uauEtbWQtldjVUeGNyNFVmcjA&usp=sharing"
+	} 
+],
+
+"utube": [
+	{
+		"name":"music", 
+		"summary":"耳光乐队，十八系列",
+		"link":"https://www.youtube.com/playlist?list=PLS1j8Zs8nlvO-ttKUQdhq5yySO3DeFqCS"
+	},
+	{
+		"name":"music", 
+		"summary":"Top 30 Two Steps From Hell Songs",
+		"link":"https://www.youtube.com/watch?v=1NKWop13q7I"
+	} ,
+	{
+		"name":"music", 
+		"summary":"大航海時代4 パワーアップキット 楽曲集",
+		"link":"https://www.youtube.com/watch?v=cQWfFekCzfw"
+	} ,
+	{
+		"name":"java", 
+		"summary":"Java Tutorials: Beginning", 
+		"link":"https://www.youtube.com/playlist?list=PLB-6aM-auBiBy5qsZjpSKXjVJwfrtJ7Ed"
+	} ,
+	{
+		"name":"java", 
+		"summary":"Design Patterns Video Tutorial", 
+		"link":"https://www.youtube.com/playlist?list=PLF206E906175C7E07"
+	} ,
+	{
+		"name":"javascript", 
+		"summary":"JavaScript Fundamentals 101 Video Tutorials", 
+		"link":"https://www.youtube.com/playlist?list=PLOxOmO43E6JvLzUBTbc9dkNw7xv9BMTnW"
+	} ,
+	{
+		"name":"javascript", 
+		"summary":"Advanced JavaScript Fundamentals Video Tutorials", 
+		"link":"https://www.youtube.com/playlist?list=PLOxOmO43E6Jt4GfZtF8yR6KghIdmc7715"
+	} ,
+	{
+		"name":"javascript", 
+		"summary":"AngularJS For Everyone", 
+		"link":"https://www.youtube.com/playlist?list=PLLnpHn493BHF6utwkwpo7RN-GPg1sZhvK"
+	} ,
+	{
+		"name":"javascript", 
+		"summary":"TutsPlus 30 Days to Learn jQuery", 
+		"link":"https://www.youtube.com/playlist?list=PLaQXlPB7DGM_YC5IxreMYpIEs8l70rGHo"
+	} ,
+	{
+		"name":"mongodb", 
+		"summary":"Week1 - MongoDB M102-DBA", 
+		"link":"https://www.youtube.com/playlist?list=PLGOsbT2r-igmVfPljx7VXI8XX7hyS6vmP"
+	} ,
+	{
+		"name":"photoshop", 
+		"summary":"Deke's Techniques", 
+		"link":"https://www.youtube.com/playlist?list=PL26pr4T7OzVMdrlmI_tzIbWA3UvQlP_Ps"
+	} ,
+	{
+		"name":"python", 
+		"summary":"Python Django Tutorial", 
+		"link":"https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD"
+	} ,
+	{
+		"name":"python", 
+		"summary":"Try Django 1.8 Tutorial - Create an MVP Landing Page", 
+		"link":"https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S"
+	} ,
+	{
+		"name":"swift", 
+		"summary":"Apple Swift Programming Language Tutorial Series",
+		"link":"https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb"
+	} ,
+	{
+		"name":"swift", 
+		"summary":"Stanford University Swift Language Course", 
+		"link":"https://www.youtube.com/playlist?list=PLxwBNxx9j4PW4sY-wwBwQos3G6Kn3x6xP"
+	} ,
+	{
+		"name":"uml", 
+		"summary":"UML 2.0 Tutorial", 
+		"link":"https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc"
+	} ,
+	{
+		"name":"uml", 
+		"summary":"VTC UML", 
+		"link":"https://www.youtube.com/playlist?list=PLF9D326001C1A7794"
+	} ,
+	{
+		"name":"相声", 
+		"summary":"刘宝瑞单口相声", 
+		"link":"https://www.youtube.com/playlist?list=PLhvBORQUWbTA5ekJaiSsLEhe6Hz9kCUd2"
+	} ,
+	{
+		"name":"相声", 
+		"summary":"郭德纲单口相声", 
+		"link":"https://www.youtube.com/playlist?list=PL6dqf8MMeP7FCMuqtk-BHxaxn9Ui4dqr8"
+	} ,
+	{
+		"name":"相声", 
+		"summary":"青曲社：苗阜王声", 
+		"link":"https://www.youtube.com/playlist?list=PLt-gfq_7myo71sZQDMyXFigOQOI6MoECF"
+	} ,
+	{
+		"name":"music", 
+		"summary":"The best of Armik", 
+		"link":"https://www.youtube.com/playlist?list=PLGvEK_a2NtQKHUSH5O41-oMRdrtlcSJaf"
+	} ,
+	{
+		"name":"music", 
+		"summary":"文化部2015禁歌", 
+		"link":"https://www.youtube.com/playlist?list=PLmw0wKZjVyv2tHEVgEZQ3vAcNEz1L9PWa"
+	} 
+]
+}

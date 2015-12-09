@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        
+        <style type="text/css">
+		.container {
+			width: 600px;
+			margin: 0 auto;
+		}
+
+		.img {
+			float: left;
+			width: 300px;
+			height: 200px;
+			box-sizing: border-box;
+			background-size: cover;
+
+			background-color: #aaaa00;
+			background-blend-mode: hard-light;
+		}
+
+		.img:hover {
+			background-blend-mode: normal;
+		}
+
+		.img1 { background-image: url(image/sf01.jpg) ; }
+		.img2 { background-image: url(image/sf02.jpg) ; }
+		.img3 { background-image: url(image/sf03.jpg) ; }
+		.img4 { background-image: url(image/sf04.jpg) ; }
+
+		.sf{
+			position: absolute;
+			width: 600px;
+			top:300px;
+			line-height: 200px;
+			text-align: center;
+		}
+		.sf h2 {
+			color: red;
+			font-size: 160px;
+			margin: 0;
+			mix-blend-mode: screen;
+		}
+
+		#other {
+			background-color: #aaaa00;
+		}
+		img {
+			width: 600px;
+			height: 350px;
+			mix-blend-mode: overlay;
+		}
+
+		img:hover {
+			mix-blend-mode: normal;
+		}
+        </style>
+    </head>
+
+    <body>
+	    <div class="container">
+		    <div class="img img1" ></div>
+		    <div class="img img2" ></div>
+		    <div class="img img3" ></div>
+		    <div class="img img4" ></div>
+		    <div class="sf"><h2>旧金山</h2></div>
+		    <div id="other">
+		 	   <img src="image/sf01.jpg"/>
+	    	</div>
+	    </div>
+    </body>
+</html>

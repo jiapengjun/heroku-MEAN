@@ -1,0 +1,88 @@
+{
+"records": [
+	{
+		"name":"Inside Out",
+		"released":"2015",
+		"summary":"头脑特工队 Inside Out (2015)",
+		"douban":"http://movie.douban.com/subject/10533913/",
+		"seed":"magnet:?xt=urn:btih:556be0bd40c4880e29ba567663c65bd8bae9fbeb&dn=Inside+Out+%282015%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"WALL·E",
+		"released":"2008",
+		"summary":"机器人总动员 WALL·E (2008)",
+		"douban":"http://movie.douban.com/subject/2131459/",
+		"seed":"magnet:?xt=urn:btih:6687a51bb38802620e13542d9c50235039f939d1&dn=WALL-E+%282008%29+1080p+BrRip+x264+-+1.20GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Rio",
+		"released":"2011",
+		"summary":"里约大冒险 Rio (2011)",
+		"douban":"http://movie.douban.com/subject/3731581/",
+		"seed":"magnet:?xt=urn:btih:f288baa0ea720f24d3835c9c1110dc1aac7e644c&dn=Rio+2011+DVDRiP+XViD+AC3-IMAGiNE&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Rio2",
+		"released":"2014",
+		"summary":"里约大冒险2 Rio 2 (2014)",
+		"douban":"http://movie.douban.com/subject/11443314/",
+		"seed":"magnet:?xt=urn:btih:f817191cac3ec5832b789d39a9b1a2a6c0b43708&dn=Rio+2+%282014%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Tangled",
+		"released":"2010",
+		"summary":"魔发奇缘 Tangled (2010)",
+		"douban":"http://movie.douban.com/subject/1863766/",
+		"seed":"magnet:?xt=urn:btih:0477c03a7c27555bee24f123d774662ade08d23f&dn=Tangled+%282010%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Despicable Me",
+		"released":"2010",
+		"summary":"神偷奶爸 Despicable Me (2010)",
+		"douban":"http://movie.douban.com/subject/3287562/",
+		"seed":"magnet:?xt=urn:btih:83cbaa4e70fb9a068d4017424b9885dae2b605f4&dn=Despicable+Me+%282010%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Despicable Me 2",
+		"released":"2013",
+		"summary":"神偷奶爸2 Despicable Me 2 (2013)",
+		"douban":"http://movie.douban.com/subject/4915857/",
+		"seed":"magnet:?xt=urn:btih:affc3a2bbb7da2fab119d1c85c20072b394db1cb&dn=Despicable+Me+2+%282013%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Brave",
+		"released":"2012",
+		"summary":"勇敢传说 Brave (2012)",
+		"douban":"http://movie.douban.com/subject/3036473/",
+		"seed":"magnet:?xt=urn:btih:4ffa45ce7350e7aa19c90a432089662dcd2621d5&dn=Brave+%282012%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Wreck-It Ralph",
+		"released":"2012",
+		"summary":"无敌破坏王 Wreck-It Ralph (2012)",
+		"douban":"http://movie.douban.com/subject/6534248/",
+		"seed":"magnet:?xt=urn:btih:2ef6de6be35239d370db76e5b47be49d96bbf4da&dn=Wreck+It+Ralph+%282012%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Frozen",
+		"released":"2013",
+		"summary":"冰雪奇缘 Frozen (2013)",
+		"douban":"http://movie.douban.com/subject/4202982/",
+		"seed":"magnet:?xt=urn:btih:4956a4e976ea948025c3c3554567ca2820f65f64&dn=Frozen+%282013%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Song of the Sea",
+		"released":"2014",
+		"summary":"海洋之歌 Song of the Sea (2014)",
+		"douban":"http://movie.douban.com/subject/11584019/",
+		"seed":"magnet:?xt=urn:btih:ecfc7a0b4c6343dabaa70ad1da537ecec75990b2&dn=Song+of+the+Sea+%282014%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Big Hero 6",
+		"released":"2014",
+		"summary":"超能陆战队 Big Hero 6 (2014)",
+		"douban":"http://movie.douban.com/subject/11026735/",
+		"seed":"magnet:?xt=urn:btih:966d30a8bbc61a1fb50842cab6983b17eca2cf9a&dn=Big+Hero+6+%282014%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	}
+]
+}

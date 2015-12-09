@@ -1,0 +1,17 @@
+<div>
+	<link rel="stylesheet" type="text/css" href="css/book.css">
+	<div class="head">
+		<a href="#/"><h1>back to Home<h1></a>
+	</div>
+
+	<div class="main">
+		<img id="current" ng-src="{{book.current}}"></img>
+	</div>
+
+	<div class="aside">
+		<div ng-repeat="img in book.images" class="imgItem">
+			<a href="javascript:void(0)"><img class="thumb" ng-click="book.changeMe(this)" ng-src="{{img}}" ng-class="{'active': book.current === img}"></img></a> 
+		</div>
+	</div>
+
+</div>

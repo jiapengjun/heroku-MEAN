@@ -1,0 +1,452 @@
+{
+"records": [
+	{
+		"name":"Terminator Genisys",
+		"released":"2015",
+		"summary":"终结者：创世纪 Terminator Genisys (2015)",
+		"douban":"http://movie.douban.com/subject/3338862/",
+		"seed":"magnet:?xt=urn:btih:e6dba20010eb92b4d0ba256e968cb133c5b1a846&dn=Terminator%20Genisys%20(2015)%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969"
+	},
+	{
+		"name":"Avengers: Age of Ultron",
+		"released":"2015",
+		"summary":"复仇者联盟2：奥创纪元 Avengers: Age of Ultron (2015)",
+		"douban":"http://movie.douban.com/subject/10741834/",
+		"seed":"magnet:?xt=urn:btih:92b4d5ea2d21bc2692a2cb1e5b9fbecd489863ec&dn=Avengers%20Age%20of%20Ultron%20(2015)%20%5b1080p%5d&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80"
+	},
+	{
+		"name":"Swordsman 2",
+		"released":"1992",
+		"summary":" 笑傲江湖2：东方不败 笑傲江湖II東方不敗 (1992) ",
+		"douban":"http://movie.douban.com/subject/1294417/",
+		"seed":"magnet:?xt=urn:btih:f6957ecb1a002ac56ffcc310b02ba71a4a1af4d8&dn=Swordsman.2.1992.720p.BluRay.x264-WiKi&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80"
+	},
+	{
+		"name":"Ex Machina",
+		"released":"2015",
+		"summary":"机械姬 Ex Machina (2015)",
+		"douban":"http://movie.douban.com/subject/4160540/",
+		"seed":"magnet:?xt=urn:btih:31ff6c7f8af99bdbc2d5f022367bc6b85bd613ee&dn=Ex%20Machina%20%282015%29%20%5B1080p%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Fifty Shades of Grey",
+		"released":"2015",
+		"summary":"五十度灰 Fifty Shades of Grey (2015)",
+		"douban":"http://movie.douban.com/subject/24840488/",
+		"seed":"magnet:?xt=urn:btih:4d113d28b14ea6cf66950b645f02ff79ec543e0b&dn=Fifty%20Shades%20of%20Grey%20%282015%29%20%5B1080p%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Nuovo Cinema Paradiso",
+		"released":"1988",
+		"summary":"天堂电影院 Nuovo Cinema Paradiso (1988)",
+		"douban":"http://movie.douban.com/subject/1291828/",
+		"seed":"magnet:?xt=urn:btih:79a54d7b92c908e367c5ec2d235c145b149e31e2&dn=Cinema.Paradiso.1988.1080p.BluRay.x264.anoXmous&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"La leggenda del pianista sull'oceano",
+		"released":"1998",
+		"summary":"海上钢琴师 La leggenda del pianista sull'oceano (1998)",
+		"douban":"http://movie.douban.com/subject/1292001/",
+		"seed":"magnet:?xt=urn:btih:55acfd2e82a57533daf6824cdc342a0ca58d6190&dn=The+Legend+of+1900+%5B1998%5D+1080p+BluRay+AAC+x264-tomcat12%5BETRG%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Love Letter",
+		"released":"1995",
+		"summary":"情书 Love Letter (1995)",
+		"douban":"http://movie.douban.com/subject/1292220/",
+		"seed":"magnet:?xt=urn:btih:79882b82eef99bde69e1cb23bdd24dc991485575&dn=Love.Letter.1995.x264.DTS-WAF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Legends of the Fall",
+		"released":"1994",
+		"summary":"燃情岁月 Legends of the Fall (1994)",
+		"douban":"http://movie.douban.com/subject/1295865/",
+		"seed":"magnet:?xt=urn:btih:341c412fc769ff622122491247e6189a54e07388&dn=Legends+of+the+Fall+%281994%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Heat",
+		"released":"1995",
+		"summary":"盗火线 Heat (1995)",
+		"douban":"http://movie.douban.com/subject/1295686/",
+		"seed":"magnet:?xt=urn:btih:447f32a80b66a52f044e4bb953357a334bed399a&dn=Heat+%281995%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Ran",
+		"released":"1985",
+		"summary":"乱 (1985)",
+		"douban":"http://movie.douban.com/subject/1296196/",
+		"seed":"magnet:?xt=urn:btih:041643b8ae0c21aae82d9d81c00125a8662042eb&dn=Ran.1985.ENGLISH.DUBBED.720p.BRRip.XviD.AC3-RARBG&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"V for Vendetta",
+		"released":"2005",
+		"summary":"V字仇杀队 V for Vendetta (2005)",
+		"douban":"http://movie.douban.com/subject/1309046/",
+		"seed":"magnet:?xt=urn:btih:dc5e0f28c56cbb93e57fc11ca8e56cc79a5d2e13&dn=V%20for%20Vendetta%20%282006%29%20%5B1080p%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Sex and Zen",
+		"released":"1991",
+		"summary":"玉蒲团之偷情宝鉴 玉蒲團之偷情寶鑑 (1991)",
+		"douban":"http://movie.douban.com/subject/14016168/",
+		"seed":"magnet:?xt=urn:btih:d005b53c4a3502be211b7b5940cbc884583cfca7&dn=Sex%2Band%2BZen%2B%281991%29%2B%5BEngSub%5D%2B%28Hong%2BKong%2B18%2B%29&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Sex and Zen 2",
+		"released":"1996",
+		"summary":"玉蒲团之玉女心经 玉蒲團之玉女心經 (1996)",
+		"douban":"http://movie.douban.com/subject/1449776/",
+		"seed":"magnet:?xt=urn:btih:4ac10cd51dd6b08ed11b298b1a078cac0551daa3&dn=Sex.%26.Zen.II.1996%5BEngSub%5D.mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Hana to hebi",
+		"released":"2004",
+		"summary":"花与蛇 花と蛇 (2004)",
+		"douban":"http://movie.douban.com/subject/1436868/",
+		"seed":"magnet:?xt=urn:btih:f8afafbac58f220919b3b6cd3347fbc8585ac8cd&dn=Flower%2Band%2BSnake%2B-%2BHana%2Bto%2BHebi%2B2004%2B720P%2B-%2BITA-JAP%2BMultisub%2B115&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Hana to hebi 2: Pari/Shizuko",
+		"released":"2005",
+		"summary":"花与蛇2：巴黎/静子 花と蛇2 パリ/静子 (2005)",
+		"douban":"http://movie.douban.com/subject/1437678/",
+		"seed":"magnet:?xt=urn:btih:c544f10d54b9fdcfbeb82b5ebecab12b39ce916b&dn=Flower%20and%20Snake%202%20%282005%29%20-%201024x576%20%28Audio%20Jap%20-%20Sub%20Ita-Eng%29.mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Kill Bill",
+		"released":"2003",
+		"summary":"杀死比尔 Kill Bill: Vol. 1 (2003)",
+		"douban":"http://movie.douban.com/subject/1291580/",
+		"seed":"magnet:?xt=urn:btih:0f3cd75a00c8b4b8bd68612311fad26094b8375b&dn=Kill.Bill.1-2.Duology.2003-2004.1080p.BluRay.x264.anoXmous&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Kill Bill 2",
+		"released":"2004",
+		"summary":"杀死比尔2 Kill Bill: Vol. 2 (2004)",
+		"douban":"http://movie.douban.com/subject/1291584/",
+		"seed":"magnet:?xt=urn:btih:0f3cd75a00c8b4b8bd68612311fad26094b8375b&dn=Kill.Bill.1-2.Duology.2003-2004.1080p.BluRay.x264.anoXmous&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Batman Begins",
+		"released":"2005",
+		"summary":"蝙蝠侠：侠影之谜 Batman Begins (2005)",
+		"douban":"http://movie.douban.com/subject/1309069/",
+		"seed":"magnet:?xt=urn:btih:52fd58172c296021f2e351b8a12bbc8be7c88f8d&dn=Batman+Begins+%282005%29+1080p+BluRay+x264+-+1.6GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Dark Knight",
+		"released":"2008",
+		"summary":"蝙蝠侠：黑暗骑士 The Dark Knight (2008)",
+		"douban":"http://movie.douban.com/subject/1851857/",
+		"seed":"magnet:?xt=urn:btih:a54926c2e07b0e5f0243954330b599b31c804f0b&dn=The+Dark+Knight+%282008%29+1080p+BluRay+x264+-+1.7GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Dark Knight Rises",
+		"released":"2012",
+		"summary":"蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises (2012)",
+		"douban":"http://movie.douban.com/subject/3395373/",
+		"seed":"magnet:?xt=urn:btih:fbc4beed6422187f34556c5c0ad2473e4d2e5c18&dn=The+Dark+Knight+Rises+%282012%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Before Sunrise",
+		"released":"1995",
+		"summary":"爱在黎明破晓前 Before Sunrise (1995)",
+		"douban":"http://movie.douban.com/subject/1296339/",
+		"seed":"magnet:?xt=urn:btih:fb61e87c33b4e28abc065ba43e52d44ac7a560cf&dn=Before.Sunrise.1995.1080p.WEB-DL.H264-fiend+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Before Sunset",
+		"released":"2004",
+		"summary":"爱在日落黄昏时 Before Sunset (2004)",
+		"douban":"http://movie.douban.com/subject/1291990/",
+		"seed":"magnet:?xt=urn:btih:bb2a6641ba17b7c1cc5feedace140305d3ed281f&dn=Before.Sunset.2004.720p.WEB-DL.AAC.2.0.H.264-HDStar+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Before Midnight",
+		"released":"2013",
+		"summary":"爱在午夜降临前 Before Midnight (2013)",
+		"douban":"http://movie.douban.com/subject/10808442/",
+		"seed":"magnet:?xt=urn:btih:56c7d41bcefba2532a8d962d907939354e696408&dn=Before.Midnight.2013.720p.BluRay.x264-SPARKS+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Tropa de Elite",
+		"released":"2007",
+		"summary":"精英部队 Tropa de Elite (2007)",
+		"douban":"http://movie.douban.com/subject/2284851/",
+		"seed":"magnet:?xt=urn:btih:8bcd87650b4cdba10346fe9c4a08b23729e02b0d&dn=Tropa+de+Elite-720p+MP4+AAC+x264+BRRip+2007-CC&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Tropa de Elite 2",
+		"released":"2010",
+		"summary":"精英部队2：大敌当前 Tropa de Elite 2 - O Inimigo Agora É Outro (2010)",
+		"douban":"http://movie.douban.com/subject/4304402/",
+		"seed":"magnet:?xt=urn:btih:2b086b6b97fc3934ee251d490abc05d37edc6cb0&dn=Tropa+De+Elite+2+2010+720p+BRRip+XviD+AC3-TiMPE&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Cidade de Deus",
+		"released":"2002",
+		"summary":"上帝之城 Cidade de Deus (2002)",
+		"douban":"http://movie.douban.com/subject/1292208/",
+		"seed":"magnet:?xt=urn:btih:80275c5c97dbb22837dfd51098c56cc2aa11a30d&dn=City.of.God.2002.1080p.BluRay.x264.anoXmous&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Lock, Stock and Two Smoking Barrels",
+		"released":"1998",
+		"summary":"两杆大烟枪 Lock, Stock and Two Smoking Barrels (1998)",
+		"douban":"http://movie.douban.com/subject/1293350/",
+		"seed":"magnet:?xt=urn:btih:f5d5ec6d400cf7c44a4025fc65f9ceaebfc7bf1c&dn=Lock%2C+Stock+and+Two+Smoking+Barrels+%281998%29+1080p+BrRip+x264+-+YI&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Snatch",
+		"released":"2000",
+		"summary":"偷拐抢骗 Snatch (2000)",
+		"douban":"http://movie.douban.com/subject/1301171/",
+		"seed":"magnet:?xt=urn:btih:07a1bd634687924feddb6b76d792682a1ec981b4&dn=Snatch.2000.1080p.BluRay.x264.anoXmous&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Dial M for Murder",
+		"released":"1954",
+		"summary":"电话谋杀案 Dial M for Murder (1954)",
+		"douban":"http://movie.douban.com/subject/1301231/",
+		"seed":"magnet:?xt=urn:btih:187d525a4307c4552dee0e671216d96fa7b65525&dn=Dial.M.for.Murder.1954.720p.BluRay.X264-AMIABLE+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Rear Window",
+		"released":"1954",
+		"summary":"后窗 Rear Window (1954)",
+		"douban":"http://movie.douban.com/subject/1299080/",
+		"seed":"magnet:?xt=urn:btih:3f6b0153c379fada7c6aa8206d364f80f14ef264&dn=Rear.Window.1954.720p.BluRay.X264-AMIABLE+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Once Upon a Time in America",
+		"released":"1984",
+		"summary":"美国往事 Once Upon a Time in America (1984)",
+		"douban":"http://movie.douban.com/subject/1292262/",
+		"seed":"magnet:?xt=urn:btih:7c97aa412352224a178d3439594d613cb49691e1&dn=Once+Upon+a+Time+in+America+%281984%29+1080p+x264+DD5.1+EN+NL+SP+Sub&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Bitter Moon",
+		"released":"1992",
+		"summary":"苦月亮 Bitter Moon (1992)",
+		"douban":"http://movie.douban.com/subject/1301582/",
+		"seed":"magnet:?xt=urn:btih:c2f81b7ef6506a445637796dffa1ff64b4d1dd83&dn=Bitter+Moon+%281992%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"La cara oculta",
+		"released":"2011",
+		"summary":"黑暗面 La cara oculta (2011)",
+		"douban":"http://movie.douban.com/subject/6536180/",
+		"seed":"magnet:?xt=urn:btih:186a7dbfa581a411ff2a05186804f6ec042bf928&dn=La+cara+oculta+2011+DVDRip+XviD-5rFF&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Match Point",
+		"released":"2005",
+		"summary":"赛末点 Match Point (2005)",
+		"douban":"http://movie.douban.com/subject/1433577/",
+		"seed":"magnet:?xt=urn:btih:8c18ad5553ab08c6449608ad82fbe15479163873&dn=Match+Point+2005+Limited+720p+BluRay+x264-SiNNERS+BOZX&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Gone Girl",
+		"released":"2014",
+		"summary":"消失的爱人 Gone Girl (2014)",
+		"douban":"http://movie.douban.com/subject/21318488/",
+		"seed":"magnet:?xt=urn:btih:d26ed61fbb7cc0169cc64727d4f67247e5717567&dn=Gone.Girl.2014.1080p.BluRay.H264.ACC.5.1.BADASSMEDIA&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Blue Jasmine",
+		"released":"2013",
+		"summary":"蓝色茉莉 Blue Jasmine (2013)",
+		"douban":"http://movie.douban.com/subject/10576419/",
+		"seed":"magnet:?xt=urn:btih:44ec61297d65c408b6638d2b6702af63b50a1e7e&dn=Blue+Jasmine+%282013%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Truman Show",
+		"released":"1998",
+		"summary":"楚门的世界 The Truman Show (1998)",
+		"douban":"http://movie.douban.com/subject/1292064/",
+		"seed":"magnet:?xt=urn:btih:8949ece93d7bb1112353e98d34cce23996adf2a7&dn=The+Truman+Show+%281998%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Malèna",
+		"released":"2000",
+		"summary":"西西里的美丽传说 Malèna (2000)",
+		"douban":"http://movie.douban.com/subject/1292402/",
+		"seed":"magnet:?xt=urn:btih:4b78ee9b274c66ef979072a6807af303e19fbcd1&dn=Malena.2000.UNCUT.BluRay.720p.DTS.x264-CHD+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Flipped",
+		"released":"2010",
+		"summary":"怦然心动 Flipped (2010)",
+		"douban":"http://movie.douban.com/subject/3319755/",
+		"seed":"magnet:?xt=urn:btih:f51a5cd997f5c0c548afe1a102121e016e55c6e2&dn=Flipped+%282010%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Les choristes",
+		"released":"2004",
+		"summary":"放牛班的春天 Les choristes (2004)",
+		"douban":"http://movie.douban.com/subject/1291549/",
+		"seed":"magnet:?xt=urn:btih:5b9112bd766ff183fa0f8cb9638bdc9e8f5a6360&dn=The.Chorus.2004.AKA.Les.Choristes.720p.BluRay.x264-PublicHD&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Love Actually",
+		"released":"2003",
+		"summary":"真爱至上 Love Actually (2003)",
+		"douban":"http://movie.douban.com/subject/1292401/",
+		"seed":"magnet:?xt=urn:btih:b5c3c301ff86f060d955e8e35b2990a318688469&dn=Love+Actually+%282003%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Everybody's Fine",
+		"released":"2009",
+		"summary":"天伦之旅 Everybody's Fine (2009)",
+		"douban":"http://movie.douban.com/subject/3041749/",
+		"seed":"magnet:?xt=urn:btih:11b41bced79f84b8f57838ac19f0fb50e32fd3c9&dn=Everybody%5C%27s.Fine.2009.BluRay.720p.x264.DTS-MySiLU&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"3 Idiots",
+		"released":"2009",
+		"summary":"三傻大闹宝莱坞 3 Idiots (2009)",
+		"douban":"http://movie.douban.com/subject/3793023/",
+		"seed":"magnet:?xt=urn:btih:dcc750b5e4f41e0dd004d93a5213d44804afdf14&dn=3+Idiots+%282009%29+1080p+BRRiP+x264+AAC-AMEET6233+%28T.M.R.G%29&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Die Welle",
+		"released":"2008",
+		"summary":"浪潮 Die Welle (2008)",
+		"douban":"http://movie.douban.com/subject/2297265/",
+		"seed":"magnet:?xt=urn:btih:19c1b9092a2be6f7daeb5a581729696ab0e3e43f&dn=Die+Welle+2008+720p+BluRay+x264-CiNEFiLE+BOZX&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Das Leben der Anderen",
+		"released":"2006",
+		"summary":"窃听风暴 Das Leben der Anderen (2006)",
+		"douban":"http://movie.douban.com/subject/1900841/",
+		"seed":"magnet:?xt=urn:btih:20714454857c9dc7984659f6235fced14258ba7e&dn=The+Lives+Of+Others+%5BDas+Leben+Der+Anderen%5D.2006.BRRip.XviD-VLiS&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Katyń",
+		"released":"2007",
+		"summary":"卡廷惨案 Katyń (2007)",
+		"douban":"http://movie.douban.com/subject/2286418/",
+		"seed":"magnet:?xt=urn:btih:19031c9aecf3434ab75ea6325a418db2743258c2&dn=Katyn+%282007%29%5BHDRip-XviD-AC3-ESP%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Hotel Rwanda",
+		"released":"2004",
+		"summary":"卢旺达饭店 Hotel Rwanda (2004)",
+		"douban":"http://movie.douban.com/subject/1291822/",
+		"seed":"magnet:?xt=urn:btih:fb69e1861d559fd61efaeacb7abcb4799403c305&dn=Hotel+Rwanda+%282004%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Venuto Al Mondo",
+		"released":"2012",
+		"summary":"行至今生 Venuto Al Mondo (2012)",
+		"douban":"http://movie.douban.com/subject/3602096/",
+		"seed":"magnet:?xt=urn:btih:009fa712ba00a89b382dc8084d7c7d9450b1e12a&dn=Twice+Born+%282012%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Woman in Gold",
+		"released":"2015",
+		"summary":"金衣女人 Woman in Gold (2015)",
+		"douban":"http://movie.douban.com/subject/10792633/",
+		"seed":"magnet:?xt=urn:btih:fca5c4c46b69c5a4714fccbdecd48f94a3321c14&dn=Woman+in+Gold+%282015%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Pianist",
+		"released":"2002",
+		"summary":"钢琴家 The Pianist (2002)",
+		"douban":"http://movie.douban.com/subject/1296736/",
+		"seed":"magnet:?xt=urn:btih:3b66adb093195ae1bc5a832352f9e41dd77cf980&dn=The+Pianist+%282002%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Dogville",
+		"released":"2003",
+		"summary":"狗镇 Dogville (2003)",
+		"douban":"http://movie.douban.com/subject/1298759/",
+		"seed":"magnet:?xt=urn:btih:690e1acd20282ca393688ec6695f45e8aef177b8&dn=Dogville+%282003%29&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Life of David Gale",
+		"released":"2003",
+		"summary":"大卫·戈尔的一生 The Life of David Gale (2003)",
+		"douban":"http://movie.douban.com/subject/1305725/",
+		"seed":"magnet:?xt=urn:btih:b3707347bd3b55901ced52e0b4a7b89ca451884e&dn=The+Life+of+David+Gale+2003+720p+BluRay+x264-x0r&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Mulholland Dr.",
+		"released":"2001",
+		"summary":"穆赫兰道 Mulholland Dr. (2001)",
+		"douban":"http://movie.douban.com/subject/1292217/",
+		"seed":"magnet:?xt=urn:btih:61ccc4bd83d3345a6028bd3abd5c6b4cd0c366f2&dn=Mulholland.Dr.2001.720p.BluRay.x264-MySiLU+%5BDrive%5D+%5BPublicHD%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Others",
+		"released":"2001",
+		"summary":"小岛惊魂 The Others (2001)",
+		"douban":"http://movie.douban.com/subject/1301459/",
+		"seed":"magnet:?xt=urn:btih:cf950ff82aef34ad2c44ba5f387d770a99a47708&dn=The.Others.2001.720p.BluRay.x264-DON&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The Skeleton Key",
+		"released":"2005",
+		"summary":"万能钥匙 The Skeleton Key (2005)",
+		"douban":"http://movie.douban.com/subject/1418752/",
+		"seed":"magnet:?xt=urn:btih:4dfbca692d75c14b97765ecaacb374ac386f76b3&dn=The+Skeleton+Key+%282005%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Silent Hill",
+		"released":"2006",
+		"summary":"寂静岭 Silent Hill (2006)",
+		"douban":"http://movie.douban.com/subject/1466007/",
+		"seed":"magnet:?xt=urn:btih:df13b60a9e07939ee37363f38fbf1968f6db7539&dn=Silent+Hill+%282006%29+1080p+BrRip+x264+-+1.6GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Orphan",
+		"released":"2009",
+		"summary":"孤儿 Orphan (2009)",
+		"douban":"http://movie.douban.com/subject/3011308/",
+		"seed":"magnet:?xt=urn:btih:792e3ece09c0853535f638a78baecdc341c5a054&dn=Orphan+%282009%29+1080p+BrRip+x264+-+1.6GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Triangle",
+		"released":"2009",
+		"summary":"恐怖游轮 Triangle (2009)",
+		"douban":"http://movie.douban.com/subject/3011051/",
+		"seed":"magnet:?xt=urn:btih:6111a69f87afe50c42ccaf2d0006913b9f69f51e&dn=Triangle.2009.1080p.BluRay.H264.AAC-RARBG&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Shutter Island",
+		"released":"2010",
+		"summary":"禁闭岛 Shutter Island (2010)",
+		"douban":"http://movie.douban.com/subject/2334904/",
+		"seed":"magnet:?xt=urn:btih:cdf09bffc475789aa557eff19a090735412be99d&dn=Shutter+Island+%282010%29+108p+BrRip+x264+-+1.9GB+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Edge of Tomorrow",
+		"released":"2014",
+		"summary":"明日边缘 Edge of Tomorrow (2014)",
+		"douban":"http://movie.douban.com/subject/4746257/",
+		"seed":"magnet:?xt=urn:btih:5a37b321fd63828f2b304961cc151a1c696aee3e&dn=Edge+of+Tomorrow+%282014%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Kingsman: The Secret Service",
+		"released":"2014",
+		"summary":"王牌特工：特工学院 Kingsman: The Secret Service (2014)",
+		"douban":"http://movie.douban.com/subject/24405378/",
+		"seed":"magnet:?xt=urn:btih:fa8f6d21eeb3948b8497439b4d540294c42653df&dn=Kingsman%20The%20Secret%20Service%20%282014%29%20%5B1080p%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
+		"name":"Who Am I",
+		"released":"2014",
+		"summary":"我是谁：没有绝对安全的系统 Who Am I - Kein System ist sicher (2014)",
+		"douban":"http://movie.douban.com/subject/25932086/",
+		"seed":"magnet:?xt=urn:btih:c56817cbc88b37efdb5aa3d0b0dbcee0568e941c&dn=Who+Am+I+%282014%29+1080p+x264+DD5.1+EN++DE+Subs&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Mad Max:Fury Road",
+		"released":"2015",
+		"summary":"疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road (2015)",
+		"douban":"http://movie.douban.com/subject/3592854/",
+		"seed":"magnet:?xt=urn:btih:44ca7e516c49784c98fb206190ae751f86ea8f77&dn=Mad+Max+Fury+Road+2015+1080p+WEB-DL+x264+AC3-JYK&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	}
+]
+}

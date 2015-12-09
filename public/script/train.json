@@ -1,0 +1,123 @@
+{
+"records": [
+	{
+		"name":"Learn iOS 9 App Development with Xcode 7 and Swift 2",
+		"company":"udemy.com",
+		"technique":"mobile, iOS",
+		"author":"Susie Starkman",
+		"seed":"magnet:?xt=urn:btih:d5d89b8921d0a2af7e14eac8160169ac99690615&dn=Learn%20iOS%209%20App%20Development%20with%20Xcode%207%20and%20Swift%202&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2ftracker.pubt.net%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.xelion.fr%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.ex.ua%2fannounce&tr=http%3a%2f%2ftorrent.gresille.org%2fannounce&tr=udp%3a%2f%2ftracker.flashtorrents.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.flashtorrents.org%3a6969%2fannounce"
+	},
+	{
+		"name":"Learning MongoDB",
+		"company":"tutsplus.com",
+		"technique":"database, mongodb",
+		"author":"Andrew Burgess",
+		"seed":"magnet:?xt=urn:btih:17360a290b14eee457721568faa587fa01ecfba4&dn=Tutsplus.com+-+Learning+MongoDB+%5B2013%5D&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Getting Started with Express",
+		"company":"tutsplus.com",
+		"technique":"web, node, express",
+		"author":"Andrew Burgess",
+		"seed":"magnet:?xt=urn:btih:2cec33ea58372f08c49e2cb98d8af90b2dc2a4c3&dn=Getting%20Started%20with%20Express&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80"
+	},
+	{
+		"name":"[*]Learn and Understand AngularJS",
+		"company":"udemy.com",
+		"technique":"web, angularjs",
+		"author":"Anthony Alicea",
+		"seed":"magnet:?xt=urn:btih:5b74111615bcea9898f274c36f0ef2c5a735642d&dn=Non+Lynda+-+Learn+and+Understand+AngularJS&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"iOS App Development with Swift Essential Training",
+		"company":"lynda.com",
+		"technique":"mobile, iOS",
+		"author":"Simon Allardice",
+		"seed":"magnet:?xt=urn:btih:979b10e1febe5d130420a9166335e72ab36e8fd7&dn=Lynda+-+iOS+App+Development+with+Swift+Essential+Training+by+Sim&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Bootstrap 3: Advanced Web Development",
+		"company":"lynda.com",
+		"technique":"web, bootstrap",
+		"author":"Ray Villalobos",
+		"seed":"magnet:?xt=urn:btih:2446687fbd6b65eee8266f5fe6213dc9577aa7d4&dn=Lynda.com-Bootstrap+3%3A+Advanced+Web+Development&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Bootstrap Layouts Responsive Single-Page Design",
+		"company":"lynda.com",
+		"technique":"web, bootstrap",
+		"author":"Ray Villalobos",
+		"seed":"magnet:?xt=urn:btih:d21139e2273b2f3c3f6e10c7710cf9fca66cc36e&dn=Lynda+-+Bootstrap+Layouts%3A+Responsive+Single-Page+Design+with+Ra&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Data Visualization With D3.js",
+		"company":"lynda.com",
+		"technique":"web, d3",
+		"author":"Ray Villalobos",
+		"seed":"magnet:?xt=urn:btih:abdb2008642bdf5a158b4b8e7ea8d7cf1f09f5d0&dn=LYNDA+Data+Visualization+With+D3+JS+TUTORIAL-kEISO&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Up and Running with Bootstrap 3",
+		"company":"lynda.com",
+		"technique":"web, bootstrap",
+		"author":"Jen Kramer",
+		"seed":"magnet:?xt=urn:btih:82108de61327bfa2bff857194077c2dbf9026976&dn=Lynda.com+-+Up+and+Running+with+Bootstrap+3&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Vim for Advanced Users",
+		"company":"tutsplus.com",
+		"technique":"tools, vim",
+		"author":"Andrew Burgess",
+		"seed":"magnet:?xt=urn:btih:e502d7439c9edfdd8ec58989dc2926770e528591&dn=Tutsplus+-+Vim+for+Advanced+Users&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"The CSS of the Future",
+		"company":"tutsplus.com",
+		"technique":"web, css",
+		"author":"Craig Campbell",
+		"seed":"magnet:?xt=urn:btih:bd66f9d40c355b440897806307098cd226bd4bfd&dn=Tutsplus+-+The+CSS+of+the+Future&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"[*]Python Beyond The Basics",
+		"company":"pluralsight.com",
+		"technique":"lang, python",
+		"author":"Austin Bingham, Robert Smallshire",
+		"seed":"magnet:?xt=urn:btih:8c9beec9dc06edffc046345c3fb9f39e1b37dccb&dn=Pluralsight+-+Python+Beyond+The+Basics&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Python Fundamentals",
+		"company":"pluralsight.com",
+		"technique":"lang, python",
+		"author":"Austin Bingham, Robert Smallshire",
+		"seed":"magnet:?xt=urn:btih:4f0d23c33b2f9353fb1de079a201cfe6c0880905&dn=Pluralsight.com+-+Python+Fundamentals&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Java Advanced Training",
+		"company":"lynda.com",
+		"technique":"lang, java",
+		"author":"David Gassner",
+		"seed":"magnet:?xt=urn:btih:d500a83d14cb6f7be139574e0f416537b624ca2f&dn=lynda.com+-+Java+Advanced+Training+with+David+Gassner+&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Building Custom HTML5 Video Playback with AngularJS",
+		"company":"lynda.com",
+		"technique":"web, angularjs",
+		"author":"Joseph Labrecque",
+		"seed":"magnet:?xt=urn:btih:2b8fafb9ab90b0f89d5d8642cf810aff1f86e0be&dn=Lynda+-+Building+Custom+HTML5+Video+Playback+with+AngularJS&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"AngularJS: Get Started",
+		"company":"pluralsight.com",
+		"technique":"web, angularjs",
+		"author":"Scott Allen",
+		"seed":"magnet:?xt=urn:btih:feb9841b0990f8b7780ef41e23020fa7d09c138b&dn=AngularJS+Get+Started+-+Pluralsight&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	},
+	{
+		"name":"Android Development for Beginners",
+		"company":"udacity.com",
+		"technique":"mobile, andorid",
+		"author":"Katherine Kuan, Kunal Chawla, Lyla Fujiwara",
+		"seed":"magnet:?xt=urn:btih:a5d9875e1a3ba6309dec0a811e5444305f2d50b5&dn=Android+Development+for+Beginners+-+By+Udacity&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
+	}
+]
+}

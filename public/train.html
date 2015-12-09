@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Training</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+
+		<script src="script/angular.min.js"></script>
+		<script src="script/train.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+	<body ng-app="myApp" ng-controller="myCtrl">
+		<input type="text" ng-model="search" placeholder="search">
+		<table>
+			<caption>Technique Trainning</caption>
+			<th>Category</th><th>Course</th><th>Author</th><th>Company</th><th>Seed</th>
+			<tfoot><tr><td colspan="5">Contact the author, send mail to: {{fmail + "@" + lmail}}</td></tr></tfoot>
+			<tr ng-repeat="item in github |filter: search|orderBy:'technique'"><td>{{item.technique}}</td><td> {{item.name}}</td><td>{{item.author}}</td><td>{{item.company}}</td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        
+        <style type="text/css">
+            #Canvas { border: dotted 1px black; }
+        </style>
+        <script type="text/javascript">
+            window.onload = function() {
+                var c = document.getElementById("Canvas") ;
+                var ctx = c.getContext("2d") ;
+                var sf1 = document.getElementById("sf01") ;
+                ctx.drawImage(sf1, 0, 0);
+                sf1Data = ctx.getImageData(0, 0, c.width, c.height);
+                
+                var sf2 = document.getElementById("sf02") ;
+                ctx.drawImage(sf2, 0, 0)
+                sf2Data = ctx.getImageData(0, 0, c.width, c.height);
+                
+                for (var i=0; i<sf1Data.data.length; i+=4)
+                {
+                     sf1Data.data[i+1] = sf2Data.data[i+1] ;
+                }
+                
+                ctx.putImageData(sf1Data, 0, 0);
+            };
+        </script>
+    </head>
+    <body>
+        <img id="sf01" alt="sf01" src="image/sf01.jpg" hidden />
+        <img id="sf02" alt="sf02" src="image/sf02.jpg" hidden />
+        <canvas id="Canvas" width="1280" height="960" >Your browser does not support the HTML5 canvas tag.</canvas>
+    </body>
+</html>
