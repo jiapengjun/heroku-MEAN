@@ -6,16 +6,6 @@
 		"link":"./history/index.html"
 	} ,
 	{
-		"name":"Training", 
-		"summary":"技术类视频教程，附种子",
-		"link":"./train.html"
-	} ,
-	{
-		"name":"Videos", 
-		"summary":"推荐的影视作品，附种子", 
-		"link":"./seed.html"
-	} ,
-	{
 		"name":"Lantern", 
 		"summary":"2.0 for Windows。翻墙工具，无需配置", 
 		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.exe?raw=true"

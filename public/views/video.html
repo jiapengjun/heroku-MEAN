@@ -1,0 +1,26 @@
+<table>
+  <caption>美剧</caption>
+  <th>片名</th><th>简介</th><th>下载链接</th>
+  <tr ng-repeat="item in dramas |filter:search|orderBy:['name', '-released']" ng-cloak><td>{{item.name}}</td><td><a href="{{item.douban}}">{{item.summary}}</a></td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+</table>
+
+<table>
+  <caption>电影</caption>
+  <th>片名</th><th>简介</th><th>下载链接</th>
+  <tr ng-repeat="item in movies |filter: search|orderBy:['-released', 'name']" ng-cloak><td>{{item.name}}</td><td><a href="{{item.douban}}">{{item.summary}}</a></td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+</table>
+
+<table>
+  <caption>卡通片</caption>
+  <th>片名</th><th>简介</th><th>下载链接</th>
+  <tr ng-repeat="item in animes |filter: search|orderBy:['-released', 'name']" ng-cloak><td>{{item.name}}</td><td><a href="{{item.douban}}">{{item.summary}}</a></td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+</table>
+
+<table>
+  <caption>纪录片</caption>
+  <tfoot><tr><td colspan="3">
+Contact the author, send mail to: {{seed.fmail + "@" + seed.lmail}}
+  </td></tr></tfoot>
+  <th>片名</th><th>简介</th><th>下载链接</th>
+  <tr ng-repeat="item in docums |filter: search|orderBy:'-released'" ng-cloak><td>{{item.name}}</td><td><a href="{{item.douban}}">{{item.summary}}</a></td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+</table>

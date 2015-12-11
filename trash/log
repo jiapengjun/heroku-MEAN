@@ -1,0 +1,3 @@
+route:
+    angularJS:  interact request
+    express:    register/login, REST API
