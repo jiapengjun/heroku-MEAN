@@ -6,7 +6,7 @@ angular.module('myApp', [])
 		$scope.fmail= 'jiapengjun'
 		$scope.lmail= 'gmail.com'
 
-		$http.get("script/train.json").success(function(response) {
+		$http.get("assets/js/train.json").success(function(response) {
 			$scope.github= response.records; }) ;
 
 	});

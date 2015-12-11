@@ -1,0 +1,1 @@
+mongoimport -h ds056688.mongolab.com:56688 -d heroku-mean -c seed.training -u test  -p testme  --file ttt.json --jsonArray

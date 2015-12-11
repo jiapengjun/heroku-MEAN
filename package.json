@@ -2,9 +2,9 @@
   "name": "pjia-home",
   "version": "1.0.0",
   "description": "Welcome my home.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +19,9 @@
   "homepage": "https://github.com/jiapengjun/heroku-MEAN#readme",
   "dependencies": {
     "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
     "express": "^4.13.3",
+    "express-session": "^1.12.1",
     "jade": "^1.11.0",
     "kerberos": "0.0.17",
     "mongoose": "^4.2.10"
