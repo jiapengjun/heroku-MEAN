@@ -1,8 +1,10 @@
 var express = require('express')
     , app = express()
+    , morgan = require('morgan')
 
 app.disable('x-powered-by')
 
+app.use(morgan('combined'))
 app.use(express.static('./public'))
 
 /*

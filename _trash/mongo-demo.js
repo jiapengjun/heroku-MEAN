@@ -4,7 +4,7 @@ var express = require('express')
     , database = require('./server/config/database')
     , User = require('./server/models/user')
 
-mongoose.connect(database.url)
+mongoose.connect(process.env.MONGOLAB_URI || database.url)
 var db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
 db.once('open', function(callback) {

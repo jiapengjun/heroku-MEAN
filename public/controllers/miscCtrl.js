@@ -3,11 +3,11 @@
 
   var app = angular.module('myApp')
 
-  function mainCtrl($scope, $http) {
+  function miscCtrl($scope, $http) {
     $scope.fmail= 'jiapengjun'
     $scope.lmail= 'gmail.com'
 
-    $http.get("assets/data/main.json").success(function(response) {
+    $http.get("assets/data/misc.json").success(function(response) {
       $scope.local= response.local; 
       $scope.drive = response.drive; 
       $scope.utube = response.utube; 
@@ -15,5 +15,5 @@
     }) ;
   }
 
-  app.controller('mainCtrl',  ["$scope", "$http", mainCtrl]);
+  app.controller('miscCtrl',  ["$scope", "$http", miscCtrl]);
 })() ;

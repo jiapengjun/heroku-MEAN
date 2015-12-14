@@ -1,3 +1,9 @@
+body { padding-top: 70px; }
+
+.glyphicon {
+    color: Sienna;
+}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
 }

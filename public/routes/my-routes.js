@@ -6,8 +6,7 @@
   app.config(function($routeProvider) {
     $routeProvider
     .when('/', {
-      templateUrl: 'views/main.html',
-      controller: 'mainCtrl',
+      templateUrl: 'views/index.html',
     })
 
     .when('/video', {
@@ -18,6 +17,11 @@
     .when('/train', {
       templateUrl: 'views/train.html',
       controller: 'trainCtrl',
+    })
+
+    .when('/misc', {
+      templateUrl: 'views/misc.html',
+      controller: 'miscCtrl',
     })
 
     .when('/resume', {
