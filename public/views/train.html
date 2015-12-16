@@ -1,5 +1,11 @@
 <table class="table table-bordered table-striped">
 	<caption>Technique Trainning</caption>
-	<th>Category</th><th>Course</th><th>Author</th><th>Company</th><th>Seed</th>
-	<tr ng-repeat="item in github |filter: search|orderBy:'technique'" ng-cloak><td>{{item.technique}}</td><td> {{item.name}}</td><td>{{item.author}}</td><td>{{item.company}}</td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
+
+    <th ng-click="setOrder('technique')">Category</th>
+    <th ng-click="setOrder('name')">Course</th>
+    <th ng-click="setOrder('author')">Author</th>
+    <th ng-click="setOrder('company')">Company</th>
+    <th ng-click="setOrder('seed')">Seed</th>
+
+    <tr ng-repeat="item in github |filter: search|orderBy:order.name:order.descending" ng-cloak><td>{{item.technique}}</td><td> {{item.name}}</td><td>{{item.author}}</td><td>{{item.company}}</td><td><a href="{{item.seed}}">Get this torrent</a></td></tr>
 </table>

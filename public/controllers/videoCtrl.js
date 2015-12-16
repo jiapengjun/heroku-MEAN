@@ -4,9 +4,6 @@
   var app = angular.module('myApp') 
 
   function videoCtrl($scope, $http) {
-    $scope.fmail= 'jiapengjun'
-    $scope.lmail= 'gmail.com'
-
     $http.get("assets/data/seed_drama.json").success(function(response) {
       $scope.dramas = response.records; }) ;
 
