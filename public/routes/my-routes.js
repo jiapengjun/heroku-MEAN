@@ -26,6 +26,7 @@
 
     .when('/feedback', {
       templateUrl: 'views/feedback.html',
+      controller: 'feedbackCtrl',
     })
 
     .when('/resume', {

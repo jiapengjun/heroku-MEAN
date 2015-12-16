@@ -13,16 +13,17 @@ db.once('open', function(callback) { console.log('connection succeed') })
 app.disable('x-powered-by')
 // app.use(morgan('combined'))
 app.use(bodyParser.urlencoded({ extended: true }))
+app.use(bodyParser.json())
 app.use(express.static('./public'))
 
 app.post('/feedback', function(req, res) {
     var comment = new Comment(req.body)
     comment.save(function(err) {
         if(err) return console.log('fail to save:' + err)
-        console.log('Save comment to mongoDB')
+        // console.log('Comment saved')
     })
 
-    res.redirect('/') 
+    res.send("Comment received!")
 })
 
 /*
