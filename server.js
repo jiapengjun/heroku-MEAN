@@ -1,11 +1,29 @@
 var express = require('express')
     , app = express()
-    , morgan = require('morgan')
+    , bodyParser = require('body-parser')
+    , mongoose = require('mongoose')
+    , Comment = require('./server/models/comment')
+//    , morgan = require('morgan')
+
+mongoose.connect(process.env.MONGOLAB_URI)
+var db = mongoose.connection
+db.on('error', console.error.bind(console, 'connection error'))
+db.once('open', function(callback) { console.log('connection succeed') })
 
 app.disable('x-powered-by')
-
-app.use(morgan('combined'))
+// app.use(morgan('combined'))
+app.use(bodyParser.urlencoded({ extended: true }))
 app.use(express.static('./public'))
+
+app.post('/feedback', function(req, res) {
+    var comment = new Comment(req.body)
+    comment.save(function(err) {
+        if(err) return console.log('fail to save:' + err)
+        console.log('Save comment to mongoDB')
+    })
+
+    res.redirect('/') 
+})
 
 /*
 app.all('*', function(req, res, next) {

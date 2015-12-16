@@ -24,6 +24,10 @@
       controller: 'miscCtrl',
     })
 
+    .when('/feedback', {
+      templateUrl: 'views/feedback.html',
+    })
+
     .when('/resume', {
       templateUrl: 'views/resume.html',
     })

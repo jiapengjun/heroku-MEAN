@@ -1,0 +1,28 @@
+<style>
+    textarea { resize: none;}
+</style>
+
+<form class="form-horizontal" action="/feedback" method="post">>
+    <div class="form-group">
+        <label class="col-md-2">Name</label>
+        <div class="col-md-6">
+         <input type="text" name="name" class="form-control" placeholder="Jane Doe" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-2">Email</label>
+        <div class="col-md-6">
+        <input type="email" name="email" class="form-control" placeholder="jane.doe@exmaple.com" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-2">Comment</label>
+        <div class="col-md-6">
+        <textarea name="comment" class="form-control" rows="8" maxlength="250"></textarea>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Send out</button>
+</form>
