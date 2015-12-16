@@ -1,11 +1,6 @@
 {
 "local": [
 	{
-		"name":"History", 
-		"summary":"中国历史年表",
-		"link":"./history/index.html"
-	} ,
-	{
 		"name":"Lantern", 
 		"summary":"2.0 for Windows。翻墙工具，无需配置", 
 		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.exe?raw=true"

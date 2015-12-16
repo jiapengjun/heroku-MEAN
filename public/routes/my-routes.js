@@ -29,6 +29,10 @@
       controller: 'feedbackCtrl',
     })
 
+    .when('/history', {
+      templateUrl: 'views/history.html',
+    })
+
     .when('/resume', {
       templateUrl: 'views/resume.html',
     })

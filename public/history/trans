@@ -1,4 +1,0 @@
-rm index.html
-cp ttt lll
-vim -c "%s:^:<tr><td>:|%s:	:</td><td>:g|%s:$:</td></tr>:|%s: :<br>:g|%s:<td></td>:<td>\&nbsp;</td>:g|1s:td:th:g|wq" lll
-cat header.html lll tail.html > index.html
