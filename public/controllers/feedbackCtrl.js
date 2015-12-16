@@ -14,6 +14,10 @@
 
         $http.post('/feedback', data).success(function(response) {
             $scope.result = response
+
+            $scope.name = ''
+            $scope.email = ''
+            $scope.comment = ''
         })
     }
   }
