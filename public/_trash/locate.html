@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <script>
+            function init() {
+                if(navigator.geolocation) {
+                    document.getElementById("notify").innerHTML = "We are trying to find you" ;
+                    navigator.geolocation.getCurrentPosition(successFunc,errorFunc) ; 
+                }else {
+                    document.getElementById("notify").innerHTML = "Your browser doesn't support GEO location";
+                }
+                
+            }
+
+            function successFunc(pos) {
+                var lat = pos.coords.latitude ;
+                var long = pos.coords.longitude ;
+
+                document.getElementById("notify").innerHTML = "You are at Lat: " + lat + " Long: " + long;
+            }
+            
+            function errorFunc(pos) {
+                document.getElementById("notify").innerHTML = "Error";
+            }
+
+            onload = init;
+        </script>
+    </head>
+
+    <body>
+        <div id="notify"></div>
+    </body>
+</html>

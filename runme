@@ -1,1 +1,1 @@
-nodemon --watch server
+nodemon server.js

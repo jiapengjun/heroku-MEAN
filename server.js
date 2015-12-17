@@ -5,8 +5,7 @@ var express = require('express')
     , Comment = require('./server/models/comment')
 //    , morgan = require('morgan')
 
-mongoose.connect(process.env.MONGOLAB_URI)
-var db = mongoose.connection
+var db = mongoose.connect(process.env.MONGOLAB_URI).connection
 db.on('error', console.error.bind(console, 'connection error'))
 db.once('open', function(callback) { console.log('connection succeed') })
 

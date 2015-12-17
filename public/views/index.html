@@ -1,4 +1,26 @@
 <style>
+    .imgBox {
+        height:500px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .img1 {
+        background-image: url('assets/img/lake.jpg');
+    }
+
+    .img2 {
+        background-image: url('assets/img/path.jpg');
+    }
+
+    .img3 {
+        background-image: url('assets/img/dawn.jpg');
+    }
+
+    .img4 {
+        background-image: url('assets/img/field.jpg');
+    }
+
     footer {
         margin-top: 32px;
     }
@@ -49,7 +71,38 @@
 
 </style>
 
-<img src="assets/img/champagner.jpg" class="img-responsive" />
+<div id="theCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#theCarousel" data-slide-to="1"></li>
+        <li data-target="#theCarousel" data-slide-to="2"></li>
+        <li data-target="#theCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="imgBox img1"></div>
+        </div>
+
+        <div class="item">
+            <div class="imgBox img2"></div>
+        </div>
+
+        <div class="item">
+            <div class="imgBox img3"></div>
+        </div>
+
+        <div class="item">
+            <div class="imgBox img4"></div>
+        </div>
+    </div> <!-- end carousel-inner -->
+
+    <a class="left carousel-control" href="#theCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span></a>
+
+    <a class="right carousel-control" href="#theCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
 
 <footer class="row">
   <ul class="col-md-6 col-md-offset-3 col-sm-8  col-sm-offset-2 col-xs-12">
@@ -60,3 +113,4 @@
     <li class="col-xs-2"><a id="fbook" href="https://www.facebook.com/pengjun.jia"></a></li>
   </ul>
 </footer>
+
