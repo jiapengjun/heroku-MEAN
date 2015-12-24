@@ -1,6 +1,13 @@
 {
 "records": [
 	{
+		"name":"The Croods",
+		"released":"2013",
+		"summary":"疯狂原始人 The Croods (2013)",
+		"douban":"http://movie.douban.com/subject/1907966/",
+		"seed":"magnet:?xt=urn:btih:b07d2e283fee5ae2e597ce02f7e158bea0c8d153&dn=The%20Croods%20(2013)%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969"
+	},
+	{
 		"name":"Inside Out",
 		"released":"2015",
 		"summary":"头脑特工队 Inside Out (2015)",

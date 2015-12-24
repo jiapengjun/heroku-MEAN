@@ -7,6 +7,7 @@
     $routeProvider
     .when('/', {
       templateUrl: 'views/index.html',
+      controller: 'indexCtrl',
     })
 
     .when('/video', {
