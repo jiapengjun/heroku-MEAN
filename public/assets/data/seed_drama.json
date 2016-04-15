@@ -204,6 +204,13 @@
 		"seed":"magnet:?xt=urn:btih:8547baa79087da09a54bd61bd03b08933067630e&dn=Shameless+%28US%29+Season+4+-+COMPLETE+720p+HDTV+x264+%5BMKV%2CAC3%2C5.1%5D+&tr=udp%3A//tracker.openbittorrent.com%3A80&tr=udp%3A//open.demonii.com%3A1337&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//exodus.desync.com%3A6969"
 	},
 	{
+		"name":"Shameless",
+		"released":"2015",
+		"summary":"Shameless.US.S05.Season.5.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed",
+		"douban":"https://movie.douban.com/subject/25831924/",
+		"seed":"magnet:?xt=urn:btih:0fd638aafe5a70e80522ada7f423ae9f8b76fbbc&dn=Shameless.US.S05.Season.5.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80"
+	},
+	{
 		"name":"Fargo",
 		"released":"2014",
 		"summary":"Fargo S01 Season 1 1080p 5.1Ch Web-DL ReEnc-DeeJayAhmed",
