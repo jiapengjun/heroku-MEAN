@@ -1,6 +1,13 @@
 {
 "records": [
 	{
+		"name":"Trivisa",
+		"released":"2016",
+		"summary":"树大招风 樹大招風 (2016)",
+		"douban":"https://movie.douban.com/subject/26265170/",
+		"seed":"magnet:?xt=urn:btih:9dbe99363991ea4cb46ea015e2ae088c37b32118&dn=Trivisa.2016.1080p.BluRay.x264-WiKi%5BVR56%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
 		"name":"Relatos salvajes",
 		"released":"2014",
 		"summary":"荒蛮故事 Relatos salvajes (2014)",
