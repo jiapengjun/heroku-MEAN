@@ -1,6 +1,13 @@
 {
 "records": [
 	{
+		"name":"Warcraft",
+		"released":"2016",
+		"summary":"魔兽 Warcraft (2016)",
+		"douban":"https://movie.douban.com/subject/2131940/",
+		"seed":"magnet:?xt=urn:btih:7eb49cc193ca0073e90e9e5858878adc13f19f92&dn=Warcraft+2016+1080p+WEB-DL+x264+AC3-JYK&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+	},
+	{
 		"name":"Trivisa",
 		"released":"2016",
 		"summary":"树大招风 樹大招風 (2016)",
