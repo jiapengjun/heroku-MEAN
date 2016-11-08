@@ -26,9 +26,7 @@
     "kerberos": "0.0.17",
     "mongoose": "^4.2.10",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
-  },
-  "devDependencies": {
+    "react-dom": "^15.3.2",
     "autoprefixer": "^6.5.1",
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
