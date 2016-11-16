@@ -2,13 +2,13 @@
 "local": [
 	{
 		"name":"Lantern", 
-		"summary":"2.0 for Windows。翻墙工具，无需配置", 
-		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.exe?raw=true"
+		"summary":"3.0 latest for Windows。翻墙工具，无需配置", 
+		"link":"https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe"
 	} ,
 	{
 		"name":"Lantern", 
-		"summary":"2.0 for Mac OS X。", 
-		"link":"https://github.com/getlantern/lantern-binaries/blob/master/lantern-installer.dmg?raw=true"
+		"summary":"3.0 latest for Mac OS X。", 
+		"link":"https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg"
 	} 
 ],
 
